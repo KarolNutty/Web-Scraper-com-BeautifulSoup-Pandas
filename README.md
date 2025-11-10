@@ -1,7 +1,3 @@
-🧩 Projeto 1 — Previsão de Notas de Filmes
-
-Arquivo: projeto1_previsao_notas_filmes/README.md
-
 # 🎬 Previsão de Notas de Filmes  
 
 Projeto simples de regressão linear feito com **Python + Scikit-learn**, com o objetivo de prever a nota de um filme com base em características como duração, orçamento e popularidade.  
